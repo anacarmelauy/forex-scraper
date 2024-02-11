@@ -1,0 +1,2 @@
+# forex-scraper
+Forex Scraper
